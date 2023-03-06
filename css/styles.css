@@ -29,19 +29,16 @@ h1 {
   padding: 0 0 4.5rem;
 }
 
-/* For Some reason i can't style the bootstrap tags unless i target their id */
 #navbar-brand {
   font-family: 'Ubuntu';
   font-size: 2rem;
   font-weight: bold;
 }
 
-/* Nav items can be targeted with class though
-I'll find out why later */
-
 .nav-item{
   padding: 0 18px;
 }
+
 .nav-link {
   font-size: 1.2rem;
 }
